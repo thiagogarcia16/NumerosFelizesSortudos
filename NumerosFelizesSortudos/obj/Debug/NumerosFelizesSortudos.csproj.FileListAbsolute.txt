@@ -1,0 +1,7 @@
+C:\Users\thiago\source\repos\NumerosFelizesSortudos\NumerosFelizesSortudos\bin\Debug\NumerosFelizesSortudos.exe.config
+C:\Users\thiago\source\repos\NumerosFelizesSortudos\NumerosFelizesSortudos\bin\Debug\NumerosFelizesSortudos.exe
+C:\Users\thiago\source\repos\NumerosFelizesSortudos\NumerosFelizesSortudos\bin\Debug\NumerosFelizesSortudos.pdb
+C:\Users\thiago\source\repos\NumerosFelizesSortudos\NumerosFelizesSortudos\obj\Debug\NumerosFelizesSortudos.csprojAssemblyReference.cache
+C:\Users\thiago\source\repos\NumerosFelizesSortudos\NumerosFelizesSortudos\obj\Debug\NumerosFelizesSortudos.csproj.CoreCompileInputs.cache
+C:\Users\thiago\source\repos\NumerosFelizesSortudos\NumerosFelizesSortudos\obj\Debug\NumerosFelizesSortudos.exe
+C:\Users\thiago\source\repos\NumerosFelizesSortudos\NumerosFelizesSortudos\obj\Debug\NumerosFelizesSortudos.pdb
